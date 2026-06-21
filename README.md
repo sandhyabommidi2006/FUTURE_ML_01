@@ -27,7 +27,6 @@ Forecast Graph
 
 
 
-
 🔗 Output Table
 
 
