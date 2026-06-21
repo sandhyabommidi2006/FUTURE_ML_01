@@ -1,5 +1,7 @@
 🔗 Sales & Demand Forecasting for Businesses
+
 🔗 Objective
+
 Build a machine learning model to forecast future sales using historical business data.
 
 🔗 Tools Used
@@ -17,6 +19,13 @@ Build a machine learning model to forecast future sales using historical busines
 •Business Insights
 
 🔗 Output
+
+Forecast Graph
+
+
+
+
+
 
 
 🔗 Output Table
