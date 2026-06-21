@@ -16,6 +16,13 @@ Build a machine learning model to forecast future sales using historical busines
 - Sales Forecasting
 - Forecast Visualization
 - Business Insights
+## Forecast Graph
+
+![Forecast Graph](forecast_graph.png)
+
+## Output Table
+
+![Output Table](output_table.png)
 
 ## Conclusion
 The model successfully predicts future sales trends and helps businesses make data-driven decisions.
