@@ -7,18 +7,27 @@ Build a machine learning model to forecast future sales using historical busines
 🔗 Tools Used
 
 •Python
+
 •Pandas
+
 •NumPy
+
 •Scikit-Learn
+
 •Matplotlib
 
 🔗 Features
 
 •Data Cleaning
+
 •Feature Engineering
+
 •Sales Forecasting
+
 •Forecast Visualization
+
 •Business Insights
+
 
 🔗 Output
 
