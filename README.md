@@ -19,7 +19,6 @@ Build a machine learning model to forecast future sales using historical busines
 🔗 Output
 
 
-
 🔗 Output Table
 
 
