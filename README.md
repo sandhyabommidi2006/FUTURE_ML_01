@@ -16,6 +16,7 @@ Build a machine learning model to forecast future sales using historical busines
 - Sales Forecasting
 - Forecast Visualization
 - Business Insights
+
 ## Forecast Graph
 
 ![Forecast Graph](forecast_graph.png.jpg)
